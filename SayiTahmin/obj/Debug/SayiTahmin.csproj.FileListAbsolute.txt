@@ -1,0 +1,15 @@
+C:\Users\net11\Desktop\NET11\NISAN\2016.04.14\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\net11\Desktop\NET11\NISAN\2016.04.14\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\Users\net11\Desktop\NET11\NISAN\2016.04.14\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\Users\net11\Desktop\NET11\NISAN\2016.04.14\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\net11\Desktop\NET11\NISAN\2016.04.14\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb
+C:\Users\net11\Desktop\NET11\NISAN\2016.04.14\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csprojResolveAssemblyReference.cache
+C:\Users\TyLeR\Desktop\wissen notları\NİSAN\2016.04.14\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\TyLeR\Desktop\wissen notları\NİSAN\2016.04.14\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\TyLeR\Desktop\wissen notları\NİSAN\2016.04.14\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb
+C:\Users\TyLeR\Desktop\wissen notları\NİSAN\2016.04.14\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\Users\TyLeR\Desktop\wissen notları\NİSAN\2016.04.14\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\Users\TyLeR\Desktop\wissen notları\NİSAN\2016.04.14\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csprojResolveAssemblyReference.cache
+C:\Users\TyLeR\Desktop\Github\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\TyLeR\Desktop\Github\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\TyLeR\Desktop\Github\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb
